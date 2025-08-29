@@ -57,7 +57,7 @@ Here are some sample visuals from the Power BI report:
 ## 🚀 How to Use  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/pizza-sales-analytics.git
+   git clone[ (https://github.com/shptech92/Pizza-Sales).git]
 Open the SQL scripts in MS SQL Server and run them on the dataset.
 
 Open the .pbix file in Power BI Desktop to explore dashboards interactively.
@@ -75,4 +75,4 @@ This project was created as part of my data analytics practice to strengthen SQL
 ## 📬 Connect with Me  
 
 - 💼 LinkedIn:(https://www.linkedin.com/in/souvik-haldar/)  
-- 🐙 GitHub: (https://github.com/your-username](https://github.com/shptech92/Pizza-Sales) 
+- 🐙 GitHub: (https://github.com/shptech92/Pizza-Sales) 
