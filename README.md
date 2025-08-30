@@ -37,8 +37,6 @@ The objective was to extract meaningful insights from raw sales data, build KPIs
 ├── Problem_Statement/ # Business problem statement
 └── README.md # Project documentation
 
-yaml
-Copy code
 
 ---
 
